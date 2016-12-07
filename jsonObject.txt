@@ -1,0 +1,1 @@
+	//networkPlugin.sendData('/api/users/1/templates/', {'subject' : '제목', 'contents' : '내용'}, "POST", function(result) {
