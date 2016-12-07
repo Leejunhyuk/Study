@@ -1,1 +1,2 @@
-	//networkPlugin.sendData('/api/users/1/templates/', {'subject' : 'Á¦¸ñ', 'contents' : '³»¿ë'}, "POST", function(result) {
+	//networkPlugin.sendData('/api/users/1/templates/', {'subject' : 'ÃÂ¦Â¸Ã±', 'contents' : 'Â³Â»Â¿Ã«'}, "POST", function(result) {
+	sdasdaksldjlsakdjkljdl
